@@ -20,7 +20,11 @@
   "homepage": "https://github.com/Dsabrkesh/Slutprojektprog#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "^3.3.5"
+    "mongodb": "^3.5.4",
+    "mongoose": "^5.9.2",
+    "socket.io": "^2.3.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
